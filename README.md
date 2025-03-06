@@ -17,7 +17,7 @@
   <!-- MORE BADGES visit https://github.com/Ileriayo/markdown-badges -->
 </div>
 
-## <center> see live DEMO at: [![2025-03-06 20_38_40-nexter — your home, your freedom](https://github.com/user-attachments/assets/d2981480-04af-496c-8bcf-3bfa63cb78aa)](https://alexplokhikh.github.io/Nexter/) </center>
+## [![2025-03-06 20_38_40-nexter — your home, your freedom](https://github.com/user-attachments/assets/d2981480-04af-496c-8bcf-3bfa63cb78aa)](https://alexplokhikh.github.io/Nexter/) for live DEMO 
 
 ### Technologies
 
@@ -32,9 +32,11 @@
 - ⭐ **Animations**
 - ⭐ responsive, **Foldable menu**
 - ⭐ **mark liked houses**
+![Анимация](https://github.com/user-attachments/assets/75899f45-25d5-4a0c-aaf9-35b38344a1fc)
 - ⭐ **gallery**
 
 ## Responsive design:
 | Desktop Screens                                                                                    | Tablet & Mobile Screens                                                                                 |
 |:--------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------:|
 | ![desktop-screens](https://github.com/user-attachments/assets/7d235a29-27d6-4628-ba69-5ed990324b85)|![tablet-mobile-screens](https://github.com/user-attachments/assets/e45129bc-4ca0-46b0-b9dc-2f235f397fa2)|
+
