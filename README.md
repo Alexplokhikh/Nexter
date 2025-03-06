@@ -17,4 +17,4 @@
   <!-- MORE BADGES visit https://github.com/Ileriayo/markdown-badges -->
 </div>
 
-## see live DEMO at: [![2025-03-06 20_38_40-nexter — your home, your freedom](https://github.com/user-attachments/assets/d2981480-04af-496c-8bcf-3bfa63cb78aa)](https://alexplokhikh.github.io/Nexter/)
+## <center>see live DEMO at: [![2025-03-06 20_38_40-nexter — your home, your freedom](https://github.com/user-attachments/assets/d2981480-04af-496c-8bcf-3bfa63cb78aa)](https://alexplokhikh.github.io/Nexter/)<center>
