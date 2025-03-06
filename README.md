@@ -1,8 +1,5 @@
-
-
-
+![2025-03-06 20_38_40-nexter — your home, your freedom](https://github.com/user-attachments/assets/d2981480-04af-496c-8bcf-3bfa63cb78aa)
 <div align="center">
-  ![2025-03-06 20_38_40-nexter — your home, your freedom](https://github.com/user-attachments/assets/d2981480-04af-496c-8bcf-3bfa63cb78aa)
   <h2>Nexter</h2>
   <p>A static webpage showcasing CSS3 Grid layouts using SASS (SCSS)</p>
 </div>
