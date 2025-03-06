@@ -33,10 +33,9 @@
 - ⭐ responsive, **Foldable menu**
 - ⭐ **Animations**
   
-| ⭐ **mark liked houses**                                                                     |             ![Анимация](https://github.com/user-attachments/assets/75899f45-25d5-4a0c-aaf9-35b38344a1fc)            |
-|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------:|
-| ⭐ **gallery**                                                            |![2025-03-06 20_58_15-nexter — your home, your freedom](https://github.com/user-attachments/assets/e136dea7-d1e4-43d7-9469-ea63dc72fbca)|
-
+| ⭐ **mark liked houses**                                                                             |             ![Анимация](https://github.com/user-attachments/assets/75899f45-25d5-4a0c-aaf9-35b38344a1fc)                               |
+|:-----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------:|
+| ⭐ **gallery**                                                                                       |![2025-03-06 20_58_15-nexter — your home, your freedom](https://github.com/user-attachments/assets/e136dea7-d1e4-43d7-9469-ea63dc72fbca)|
 
 ## Responsive design:
 
